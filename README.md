@@ -1,6 +1,6 @@
 # Clicker Game - Unity
 
-¡Bienvenido al repositorio de **Clicker Game**, un juego tipo idle/clicker desarrollado en Unity! ⚡️  
+¡Bienvenido al repositorio de **Clicker Game**, un juego tipo idle/clicker desarrollado en Unity!  
 Este proyecto cuenta con una interfaz de usuario moderna, sistema de mejoras, tienda y una jugabilidad adictiva perfecta para expandir.
 
 ---
@@ -18,7 +18,7 @@ Este proyecto cuenta con una interfaz de usuario moderna, sistema de mejoras, ti
   - Generación automática de recursos.
   - Progresión incremental con escalado balanceado.
 
-- 🔧 **Arquitectura modular**
+-  **Arquitectura modular**
   - Fácil de escalar y mantener, usando patrones como ScriptableObjects, Singleton y eventos.
 
 ---
